@@ -5,10 +5,24 @@
     box-sizing: border-box;
 }
 
-*{
+body {
 	font-family: 'Lato', sans-serif;
+	color:#747704;
+	font-weight: 300;
 }
 
-h1{
-	font-weight: 100; color: bcbbbb;
+.text-muted {
+	color: #BCBBBB;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 20px; 
 }
